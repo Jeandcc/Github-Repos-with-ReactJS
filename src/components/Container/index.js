@@ -7,7 +7,7 @@ const ContentHolder = styled.div`
   display: -ms-flexbox;
   display: flex;
   width: 80%;
-  max-width: 1000px;
+  max-width: 750px;
   margin-right: auto;
   margin-left: auto;
   padding: 24px 24px 24px 48px;
