@@ -1,29 +1,6 @@
 // TitleWrapper, InputWrapper, RespositoryWrapper
 import styled from 'styled-components';
 
-export const ContentHolder = styled.div`
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  width: 80%;
-  max-width: 1000px;
-  margin-right: auto;
-  margin-left: auto;
-  padding: 24px 24px 24px 48px;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
-  flex-direction: column;
-  -webkit-box-align: stretch;
-  -webkit-align-items: stretch;
-  -ms-flex-align: stretch;
-  align-items: stretch;
-  border-radius: 20px;
-  background-color: #f5f5f5;
-`;
-
 export const TitleWrapper = styled.div`
   display: -webkit-box;
   display: -webkit-flex;

@@ -4,12 +4,13 @@ import { Link } from 'react-router-dom';
 import api from '../../services/apiGithub';
 
 import {
-  ContentHolder,
   TitleWrapper,
   InputWrapper,
   RespositoryWrapper,
   Repository,
 } from './styles';
+
+import ContentHolder from '../../components/Container';
 
 export default class Main extends Component {
   state = {

@@ -14,7 +14,7 @@ export default createGlobalStyle`
   body {
     padding-top:30px;
     margin: 0;
-    min-height: 100%;
+    min-height: 100vh;
     background-color: #fff;
     font-family: Arial, sans-serif;
     font-size: 14px;
